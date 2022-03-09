@@ -83,7 +83,7 @@ function App() {
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://drive.google.com/file/d/1NggA4OosnxNzVMgA3fKmSt_DsQRCG8vx/view?usp=sharing" className="btn_action bg_content">
+            <a href="https://drive.google.com/file/d/1HfobgLX4Ai5Am1RA8Zy68GDH2drTQ1KI/view?usp=sharing" className="btn_action bg_content">
               <ImProfile />
               <span>CV</span>
             </a>
