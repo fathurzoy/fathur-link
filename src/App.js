@@ -53,37 +53,37 @@ function App() {
             </div>
           </div>
           <div className="mt-16">
-            <a href="https://www.linkedin.com/in/fathurzoy/" className="btn_action bg_content">
-              <FaLinkedin />
-              <span>Linkedin</span>
-            </a>
-          </div>
-          <div className="mt-16">
-            <a href="https://portofolio-fathur.vercel.app/" className="btn_action bg_content">
+            <a href="https://portofolio-fathur.vercel.app/" className="btn_action bg_content" target="_blank">
               <CgProfile />
               <span>Portofolio</span>
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://github.com/fathurzoy" className="btn_action bg_content">
+            <a href="https://www.linkedin.com/in/fathurzoy/" className="btn_action bg_content" target="_blank">
+              <FaLinkedin />
+              <span>Linkedin</span>
+            </a>
+          </div>
+          <div className="mt-16">
+            <a href="https://github.com/fathurzoy" className="btn_action bg_content" target="_blank">
               <ImGithub />
               <span>Github</span>
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://www.instagram.com/fathurzoy/" className="btn_action bg_content">
+            <a href="https://www.instagram.com/fathurzoy/" className="btn_action bg_content" target="_blank">
               <BsInstagram />
               <span>Instagram</span>
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://www.facebook.com/fathur.fauzan/" className="btn_action bg_content">
+            <a href="https://www.facebook.com/fathur.fauzan/" className="btn_action bg_content" target="_blank">
               <ImFacebook2 />
               <span>Facebook</span>
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://drive.google.com/file/d/1HfobgLX4Ai5Am1RA8Zy68GDH2drTQ1KI/view?usp=sharing" className="btn_action bg_content">
+            <a href="https://drive.google.com/file/d/1HfobgLX4Ai5Am1RA8Zy68GDH2drTQ1KI/view?usp=sharing" className="btn_action bg_content" target="_blank">
               <ImProfile />
               <span>CV</span>
             </a>
