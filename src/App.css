@@ -22,7 +22,7 @@ body {
   height: 100%;
 }
 .bg-content canvas{
-  position: fixed;
+  position: fixed !important;
 }
 .card.dark {
   --color: #22d722;
