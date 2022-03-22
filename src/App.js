@@ -108,7 +108,7 @@ function App() {
           </div>
           <div className="mt-16">
             <a
-              href="https://drive.google.com/file/d/10yfkTYAr-cCoksayIbxacgj9ISMRB6PW/view?usp=sharing"
+              href="https://drive.google.com/file/d/1AYGOwSJwPmYZ2qUmeHF8sl457zcin4ch/view?usp=sharing"
               className="btn_action bg_content"
               target="_blank"
             >
