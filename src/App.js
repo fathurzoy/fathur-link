@@ -29,7 +29,11 @@ function App() {
         <div className="dark-mode"></div>
         <div className="card_body">
           <div className="profile text-center">
-            <img src="/pp.png" alt="" style={{ width:"150px", height:"150px", borderRadius:"50%" }}/>
+            <img
+              src="/pp.png"
+              alt=""
+              style={{ width: "150px", height: "150px", borderRadius: "50%" }}
+            />
             <div className="bg_content rd_12 p_8">
               <h1>Fathur Rahman Fauzan</h1>
               {/* <p className="mt-16">Seputar Programming</p>
@@ -53,45 +57,68 @@ function App() {
             </div>
           </div>
           <div className="mt-16">
-            <a href="https://portofolio-fathur.vercel.app/" className="btn_action bg_content" target="_blank">
+            <a
+              href="https://portofolio-fathur.vercel.app/"
+              className="btn_action bg_content"
+              target="_blank"
+            >
               <CgProfile />
               <span>Portofolio</span>
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://www.linkedin.com/in/fathurzoy/" className="btn_action bg_content" target="_blank">
+            <a
+              href="https://www.linkedin.com/in/fathurzoy/"
+              className="btn_action bg_content"
+              target="_blank"
+            >
               <FaLinkedin />
               <span>Linkedin</span>
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://github.com/fathurzoy" className="btn_action bg_content" target="_blank">
+            <a
+              href="https://github.com/fathurzoy"
+              className="btn_action bg_content"
+              target="_blank"
+            >
               <ImGithub />
               <span>Github</span>
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://www.instagram.com/fathurzoy/" className="btn_action bg_content" target="_blank">
+            <a
+              href="https://www.instagram.com/fathurzoy/"
+              className="btn_action bg_content"
+              target="_blank"
+            >
               <BsInstagram />
               <span>Instagram</span>
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://www.facebook.com/fathur.fauzan/" className="btn_action bg_content" target="_blank">
+            <a
+              href="https://www.facebook.com/fathur.fauzan/"
+              className="btn_action bg_content"
+              target="_blank"
+            >
               <ImFacebook2 />
               <span>Facebook</span>
             </a>
           </div>
           <div className="mt-16">
-            <a href="https://drive.google.com/file/d/1HfobgLX4Ai5Am1RA8Zy68GDH2drTQ1KI/view?usp=sharing" className="btn_action bg_content" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/10yfkTYAr-cCoksayIbxacgj9ISMRB6PW/view?usp=sharing"
+              className="btn_action bg_content"
+              target="_blank"
+            >
               <ImProfile />
               <span>CV</span>
             </a>
           </div>
-          
         </div>
       </div>
-      <ParticlesBg type="thick" bg={true}/>
+      <ParticlesBg type="thick" bg={true} />
     </div>
   );
 }
