@@ -53,12 +53,18 @@ function App() {
                 <span className="higthlight">React Native</span>
                 <span className="higthlight">Angular JS</span>
                 <span className="higthlight">Flutter</span>
+                <span className="higthlight">Go</span>   
+                <span className="higthlight">gRPC</span>
+                <span className="higthlight">SpringBoot</span>
+                <span className="higthlight">Docker</span>
+
+
               </TextLoop>
             </div>
           </div>
           <div className="mt-16">
             <a
-              href="https://portofolio-fathur.vercel.app/"
+              href="https://portofolio-fathurzoy.vercel.app/"
               className="btn_action bg_content"
               target="_blank"
             >
