@@ -69,6 +69,7 @@ function App() {
               target="_blank"
             >
               <CgProfile />
+              
               <span>Portofolio</span>
             </a>
           </div>
